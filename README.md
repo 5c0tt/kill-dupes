@@ -1,5 +1,5 @@
-11/11/14 - 11:18:10 P.M.
-scott@newgeo.com • @cometbus
+08.08.2015 — 07:41:16 PM -0700  
+Scott Haneda [@scotthaneda](https://twitter.com/scotthaneda)
 
 #Kill-Dupes
 Scans a given directory, using hashes, finds an =y duplicate files and deletes them all leaving you with just one.  New files an be added and subtracted and it will keep scanning and doing the right thing.
